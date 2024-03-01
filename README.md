@@ -5,7 +5,7 @@ I am currently a senior at the University of Houston completing my B.S. in Data 
 
 📍 Houston, TX
 
-📧 Email: samiyakhtar.com
+📧 Email: samiyakhtar@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/samiyaa-akhtarr/
 
