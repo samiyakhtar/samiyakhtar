@@ -26,7 +26,6 @@ I am currently a senior at the University of Houston completing my B.S. in Data 
   * Eclipse
   * Anaconda
   * Jupyter Lab/Notebook
-  * Figma
 
 ### Relevant Coursework
   * Data Science I
