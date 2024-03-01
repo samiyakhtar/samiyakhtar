@@ -1,7 +1,10 @@
 ### ⭐ Hi, I'm Samiya! ⭐
 📍 Houston, Texas
+
 📧 Email: samiyakhtar.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/samiyaa-akhtarr/
+
 👨‍💻 GitHub: samiyakhtar
 
 ### 🌷 About me! 🌷
