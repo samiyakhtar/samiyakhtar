@@ -8,7 +8,7 @@
 I am currently a senior at the University of Houston studying Psychology and Data Science.
 
 ### 🌟 Professional Highlights 🌟
-- # Product Analyst Intern, Courts + Justice - Tyler Technologies, Plano, TX 
+-- # Product Analyst Intern, Courts + Justice - Tyler Technologies, Plano, TX 
 
 ### Tech Toolbox 🛠️
 Languages: Python, Java, SQL
