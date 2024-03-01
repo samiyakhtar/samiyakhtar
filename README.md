@@ -14,5 +14,5 @@ I am currently a senior at the University of Houston studying Psychology and Dat
 
 ## Tech Toolbox
 Languages: Python, Java, SQL
-Frameworks & Libraries: PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn
-Tools: GitHub, Figma, Visual Studio Code, Pycharm, Eclipse, Anaconda, Jupyter Notebook, Office 365, Jira, Confluence
+
+Tools: GitHub, Figma, Visual Studio Code, Pycharm, Eclipse, Anaconda, Jupyter Notebook
