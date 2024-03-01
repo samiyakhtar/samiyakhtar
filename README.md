@@ -1,21 +1,16 @@
-### 👋 Hi, I'm Samiya!
+### ⭐ Hi, I'm Samiya! ⭐
+📍 Houston, Texas
+📧 Email: samiyakhtar.com
+🔗 LinkedIn: https://www.linkedin.com/in/samiyaa-akhtarr/
+👨‍💻 GitHub: samiyakhtar
 
-<!--
-**samiyakhtar/samiyakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌷 About me! 🌷
+I am currently a senior at the University of Houston studying Psychology and Data Science.
 
-### About Me
+### 🌟 Professional Highlights 🌟
+- # Product Analyst Intern, Courts + Justice - Tyler Technologies, Plano, TX 
 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Toolbox 🛠️
+Languages: Python, Java, SQL
+Frameworks & Libraries: PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn
+Tools: GitHub, Figma, Visual Studio Code, Pycharm, Eclipse, Anacanda, Jupyter Notebook, Office 365
