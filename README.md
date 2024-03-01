@@ -1,6 +1,6 @@
-### 🌷 Hi, I'm Samiya! 🌷
+## 🌷 Hi, I'm Samiya! 🌷
 
-#### About Me
+### About Me
 I am currently a senior at the University of Houston completing my B.S. in Data Science and Psychology.
 
 📍 Houston, TX
@@ -11,15 +11,15 @@ I am currently a senior at the University of Houston completing my B.S. in Data 
 
 👨‍💻 GitHub: samiyakhtar
 
-#### Highlights
+### Highlights
 * Product Analyst Intern, Courts + Justice - Tyler Technologies (2023)
 
-#### Languages
+### Languages
   * Python
   * Java
   * SQL
     
-#### Tools
+### Tools
   * GitHub
   * PyCharm
   * Visual Studio Code
@@ -28,7 +28,7 @@ I am currently a senior at the University of Houston completing my B.S. in Data 
   * Jupyter Lab/Notebook
   * Figma
 
-#### Relevant Coursework
+### Relevant Coursework
   * Data Science I
   * Data Science II
   * Data Programming & Algorithms
